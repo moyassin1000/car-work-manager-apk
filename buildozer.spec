@@ -29,6 +29,8 @@ fullscreen = 0
 android.api = 35
 android.minapi = 23
 android.ndk = 25b
+android.accept_sdk_license = True
+android.build_tools_version = 35.0.0
 android.archs = arm64-v8a, armeabi-v7a
 
 # نسخة Debug تنتج APK جاهز للتثبيت بعد السماح بالتثبيت من مصادر غير معروفة
